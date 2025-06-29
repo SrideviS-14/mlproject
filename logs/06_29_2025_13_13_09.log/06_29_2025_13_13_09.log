@@ -1,0 +1,7 @@
+[ 2025-06-29 13:13:11,482 ] 21 root - INFO - Data Ingestion initiated
+[ 2025-06-29 13:13:11,500 ] 36 root - INFO - Data Ingestion completed
+[ 2025-06-29 13:13:11,557 ] 68 root - INFO - Train and Test Data reading completed
+[ 2025-06-29 13:13:11,557 ] 48 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-06-29 13:13:11,557 ] 49 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2025-06-29 13:13:11,557 ] 80 root - INFO - Applying preprocessing object on training and testing dataframe
+[ 2025-06-29 13:13:11,582 ] 92 root - INFO - Saved preprocessing object
